@@ -3,7 +3,7 @@
 - Projeto utilizando ReactJS e json-server.
 
 <h1 align="center" >  
-  <img src="/readme-assets/readme_img.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/Andre-Borges/rocketshoes/master/readme-assets/readme_img.png" width="600"/>
 </h1>
 
 ## Configuração
